@@ -1,0 +1,40 @@
+{
+    "data": [
+        {
+            "profileName": "Ove El borrachillo",
+            "mailContent": "<p>Aquí <b>Ove</b> nos recuerda que está borracho a diario</p><p>prueba de otro parrafo</p>",
+            "date": "fecha (todos los días)",
+            "profilePic" : "https://avatars.githubusercontent.com/u/46960431?v=4",
+            "subject": "Dinner Club",
+            "id": 4,
+            "totalReplies": 5
+        },
+        {
+            "profileName": "Ivan Moraga",
+            "mailContent": "Este es un correito de prueba para pintar en el HTML",
+            "date": "fecha",
+            "profilePic" : "https://avatars.githubusercontent.com/u/46960431?v=4",
+            "subject": "Dinner Club",
+            "id": 1,
+            "totalReplies": 5
+        },
+        {
+            "profileName": "Sheila la guapetona!",
+            "mailContent": "<p>Este es un ejhemplo de prueba a ver que es lo que pasa</p><p>&nbsp;</p><p>&nbsp;</p><p>asfasfasf</p><p>asf</p><p>as</p><p>fa</p><p>sfasf</p><p>asf</p><p>as</p><p>fa</p><p>sf</p><p>asfgg</p><p>&nbsp;</p><p>este es un correo incre&iacute;ble</p>",
+            "date": "fecha",
+            "profilePic" : "https://www.rd.com/wp-content/uploads/2017/09/01-shutterstock_476340928-Irina-Bg.jpg",
+            "subject": "Lunch Club",
+            "id": 2,
+            "totalReplies": 3
+        },
+        {
+            "profileName": "Anber Med",
+            "mailContent": "Este es un correito de prueba para pintar en el HTMLasfasfasfasfasfasfasf",
+            "date": "fecha",
+            "profilePic" : "https://www.dzoom.org.es/wp-content/uploads/2020/02/portada-foto-perfil-redes-sociales-consejos.jpg",
+            "subject": "Breakfast Club",
+            "id": 3,
+            "totalReplies": 0
+        }
+    ]
+}
